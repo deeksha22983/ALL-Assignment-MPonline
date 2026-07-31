@@ -1,14 +1,14 @@
 # 🎬 Movie Recommendation System
 
-**Name:** Akshat Garg  
+**Name:** Deeksha Sharma  
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BCG10065
 
-**Application Number:** IN26011052
+**Application Number:** IN26011323
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** dishasha2004@gmail.com
 
 A web-based Movie Recommendation System built using **Python**, **Flask**, **Pandas**, and **Scikit-learn**. The application recommends similar movies based on genre similarity using **TF-IDF Vectorization** and **Cosine Similarity**.
 
